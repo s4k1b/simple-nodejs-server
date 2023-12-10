@@ -1,0 +1,20 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "A simple node js server for practice",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "npm"
+  ],
+  "author": "s4k1b",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
